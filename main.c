@@ -2,7 +2,7 @@
  * Для компиляции необходимо добавить ключ -lncurses
  * gcc -o snake main.c -lncurses
  */
-
+//new commit
 #include <stdio.h>
 #include <stdlib.h>
 #include <time.h>
